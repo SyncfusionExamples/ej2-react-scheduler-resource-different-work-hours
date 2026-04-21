@@ -1,15 +1,38 @@
 # Syncfusion React Scheduler How to setup different work hours for every work day of each resources
 
-A quick start project that help you to create the Syncfusion React Scheduler with different work hours for event work days of each resources with minimal code.
+## Repository Description
+
+This is a quick start React project demonstrating how to configure the Syncfusion React Scheduler component with different work hours for each resource across different work days. The sample showcases resource grouping with customized work hours scheduling, allowing developers to implement complex scheduling scenarios with minimal code complexity.
 
 ![React resource with different work hours on each day Scheduler](resource-different-work-hours.PNG)
 
-## Scheduler features covered in this Project
+## Overview
 
-This is a React project created using [Node](https://www.npmjs.com/package/node/v/8.16.0) 8.16.0. The Scheduler features included in this project as follows.
-* Resource grouping and setting different work hours to every work day of each resources with the help of actionComplete and dataBound event of the Scheduler.
-* React Scheduler displaying basic view with appointments.
-* Drag and resize action enabled for evnets by default.
+This repository provides a complete implementation guide for setting up resource-based scheduling with varying work hours per resource per day. It's particularly useful for applications requiring flexible scheduling systems such as employee shift management, service booking, or multi-resource calendar solutions.
+
+## Features
+
+* **Resource Grouping**: Organize and manage multiple resources within the Scheduler
+* **Customizable Work Hours**: Set different work hours for every work day of each resource
+* **Event Management**: Resource-specific event handling using actionComplete and dataBound events
+* **Multiple Views**: React Scheduler displaying appointments across various scheduling views
+* **Drag and Resize**: Full drag-and-drop and resize functionality enabled for events by default
+* **Responsive Design**: Adapts to different screen sizes and devices
+
+## Prerequisites
+
+This is a React project created using [Node](https://www.npmjs.com/package/node/v/8.16.0) 8.16.0 and requires the following:
+* Node.js 8.16.0 or higher
+* npm (Node Package Manager)
+* React 16.x or higher
+* Basic knowledge of React and ES6 JavaScript
+
+## Documentation
+
+For comprehensive documentation and examples, refer to the Syncfusion React documentation:
+
+* **React Introduction**: https://ej2.syncfusion.com/react/documentation/introduction
+* **React Schedule Component**: https://ej2.syncfusion.com/react/documentation/schedule/getting-started
 
 ## How to run this application?
 To run this application, you need to first clone the `ej2-react-scheduler-resource-different-work-hours` repository and then navigate to its appropriate path where it has been located in your system.
