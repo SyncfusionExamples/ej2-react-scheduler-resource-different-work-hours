@@ -1,14 +1,8 @@
 # Syncfusion React Scheduler How to setup different work hours for every work day of each resources
 
-## Repository Description
-
-This is a quick start React project demonstrating how to configure the Syncfusion React Scheduler component with different work hours for each resource across different work days. The sample showcases resource grouping with customized work hours scheduling, allowing developers to implement complex scheduling scenarios with minimal code complexity.
+This quick-start React project demonstrates how to configure the [React Scheduler](https://www.syncfusion.com/react-components/react-scheduler) with different work hours for each resource across multiple workdays. It showcases resource grouping with customized scheduling configurations, providing a practical example for building flexible and complex scenarios such as employee shift management, service booking, and multi-resource calendar applications.
 
 ![React resource with different work hours on each day Scheduler](resource-different-work-hours.PNG)
-
-## Overview
-
-This repository provides a complete implementation guide for setting up resource-based scheduling with varying work hours per resource per day. It's particularly useful for applications requiring flexible scheduling systems such as employee shift management, service booking, or multi-resource calendar solutions.
 
 ## Features
 
@@ -25,7 +19,6 @@ This is a React project created using [Node](https://www.npmjs.com/package/node/
 * Node.js 8.16.0 or higher
 * npm (Node Package Manager)
 * React 16.x or higher
-* Basic knowledge of React and ES6 JavaScript
 
 ## Documentation
 
